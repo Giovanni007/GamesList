@@ -1,0 +1,11 @@
+.media{
+      height: 300px;
+      width: 250px;
+      background-color: brown
+}
+
+.card{
+    background-color: darkblue;
+    color: white;
+    width: 100%;
+}
